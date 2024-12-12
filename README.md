@@ -24,6 +24,7 @@ This PHP program provides an API with endpoints for managing students, courses, 
 ### Students
 - **GET**: Fetch student details.
 - **POST**: Add new student information.
+-  **DELETE**: 
 
 ### Courses
 - **GET**: Retrieve a list of courses.
